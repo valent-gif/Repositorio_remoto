@@ -9,3 +9,10 @@ def resta_numeros ():
     print (numero1 - numero2)
 
 resta_numeros(10,3)
+
+def multiplicacion_numeros ():
+    numero1 = input("Ingrese el primer número: ")
+    numero2 = input("Ingrese el segundo número: ")
+    print (numero1 * numero2)
+
+multiplicacion_numeros(4, 5)
